@@ -52,17 +52,24 @@ The dataset used in this project is the **cardio_good_fitness.csv** dataset, whi
 - Violin Plot
 
 ## Dashboard
+
 1. Comparison of Branches and Genders Through Insights and Exploration for the Treadmill Product
 2. Comparison of Each Product through Insights and Exploration for Marital Status and Age
 3. Comparison of Each Product through Insights and Exploration for Marital Status and Income
 4. Comparison of Each Individual Fitness and Miles through Insights and Exploration for Product, Branch and Gender.
 
 **Product and Branch Distribution:** 
+
 TM195:
+
 The highest number of units was sold at the South branch (25), followed by the West branch (23), then North branch (18) and East branch (14).
+
 TM498:
+
 The highest number of units was sold at the East branch (17), followed by both South and West branch (16), and last but not least North branch (11).
+
 TM798:
+
 The highest number of units was sold at the East branch (14), followed by the North branch (11), then South branch (8), and West branch had the lowest sales (8).
 
 **Comparison of Each Product through Insights and Exploration for Marital Status and Income**
@@ -70,11 +77,17 @@ The highest number of units was sold at the East branch (14), followed by the No
 Income of Single and Partnered This income data is difficult to explain, but it helps determine how many Single and Partnered individuals purchased the treadmill products.
 
 **Product, Single Brought!**
+
 Product of TM195: 32
+
 Product of TM498: 24
+
 Product of TM798: 17
 
 **Product, Partnered Brought!**
+
 Product of TM195: 48
+
 Product of TM498: 36
+
 Product of TM798: 23
