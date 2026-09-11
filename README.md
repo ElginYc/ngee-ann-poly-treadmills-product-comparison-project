@@ -22,11 +22,11 @@ Insights and findings from the data
 
 The dataset was prepared before performing data analysis and visualisation. The preprocessing steps include:
 
-* Inspecting the dataset and its variables.
-* Identifying and handling missing values.
-* Standardising the values in the Marital Status column.
-* Cleaning the dataset to ensure the data was suitable for analysis.
-* Preparing the cleaned data for further exploration and visualisation.
+- Inspecting the dataset and its variables.
+- Identifying and handling missing values.
+- Standardising the values in the Marital Status column.
+- Cleaning the dataset to ensure the data was suitable for analysis.
+- Preparing the cleaned data for further exploration and visualisation.
 
 ### Dataset
 
@@ -36,8 +36,43 @@ The dataset used in this project is the **Cardio Good Fitness** dataset, which c
 
 ## Tools & Technologies
 
-* Python
-* Jupyter Notebook
-* Pandas
-* Matplotlib
-* Seaborn
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Charts
+
+- Bar Chart
+- Donut Pie Chart
+- Vertical Bar Chart
+- Line Chart
+- Scatter Plot
+- Violin Plot
+
+## Dashboard
+1. Comparison of Branches and Genders Through Insights and Exploration for the Treadmill Product
+2. Comparison of Each Product through Insights and Exploration for Marital Status and Age
+3. Comparison of Each Product through Insights and Exploration for Marital Status and Income
+4. Comparison of Each Individual Fitness and Miles through Insights and Exploration for Product, Branch and Gender.
+
+## Overall Product Selection
+**Top 3 usage of the product:**
+
+**TM195**
+- Female (East Branch)
+- Male (East Branch)
+- Male (West Branch)
+
+**TM498**
+- Female (East Branch)
+- Male (West Branch)
+- Male (North Branch)
+
+**TM798** 
+- Male (East Branch)
+- Male (West Branch)
+- Female (West Branch)
+
+
